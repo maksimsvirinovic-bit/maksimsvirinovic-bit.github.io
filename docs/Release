@@ -1,0 +1,12 @@
+Origin: mylocalrepo
+Label: mylocalrepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: what
+
+SHA256:
+ 92f49a470886330018d4fe099c91c2306c43f3a58bf8f4bafeb7269676e004f9 509 Packages.bz2
+ 6b37036e2836324751678b9209aa77f91878da739f069765c4d3477af51d1693 516 Packages.xz
